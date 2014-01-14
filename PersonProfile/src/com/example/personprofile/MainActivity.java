@@ -60,7 +60,7 @@ public class MainActivity extends Activity {
     
  // ****************** HELPER FUNCTIONS ***************************//
 	 
-    // git test
+    
     private void loadProfile() {
     	SharedPreferences preferences = getSharedPreferences(PREFS_MYRUNS, MODE_PRIVATE);
     	
